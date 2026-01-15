@@ -6,11 +6,10 @@
 
 ## Запуск проєкту
 
-
-
 1. Клонувати репозиторій:
 git clone https://github.com/USERNAME/intu-game-dodge.git
 
+2. Відкрити index.html у браузері або через Live Server
 
 ## Unit Tests
 
