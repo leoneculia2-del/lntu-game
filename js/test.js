@@ -34,7 +34,7 @@ assert.strictEqual(
   "Enemy should collide with player"
 );
 
-//Тест 3: збільшення очок
+//Тест 3: нарахування очок
 let score = 0;
 const canvas = { height: 500 };
 const testEnemy = { y: 501 };
