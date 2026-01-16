@@ -20,4 +20,4 @@ git clone https://github.com/USERNAME/intu-game-dodge.git
 - нарахування очок
 
 ### Запуск тестів:
-node js/test.js
+Для запуску тестів пропишіть в терміналі node js/test.js
